@@ -1,3 +1,4 @@
+
 # 📝 Task List Web Application
 
 A simple and clean Task List (To-Do List) web application built using **HTML**, **CSS**, and **JavaScript**.  
@@ -34,6 +35,8 @@ task-list
 │── Thanu.js
 
 │── README.md
+
+<img width="546" height="503" alt="Screenshot 2026-02-07 201147" src="https://github.com/user-attachments/assets/3b2c3406-3e4a-40c2-ae21-deafc8510cad" />
 
 ## 👤 Author
 
